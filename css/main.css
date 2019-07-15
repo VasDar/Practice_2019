@@ -1,0 +1,231 @@
+body {
+    background-color: #EAEDF1;
+}
+
+.header {
+    position: absolute;
+    display: inline-block;
+    width: 1520px;
+    height: 380px;
+    background-color: #EAEDF1;
+}
+
+.header-left {
+    float: left;
+    background-color: #ffffff;
+    position: absolute;
+    width: 435px;
+    height: 296px;
+    margin-left: 80px;
+    margin-top: 80px;
+    border: 1px solid #F8F9FA;
+    font-size: 0;
+}
+
+.bottom-blue {
+    background-color: #4ec5ed;
+    display: inline-block;
+    position: bottom;
+    width: 106px;
+    height: 76px;
+    border: 1px solid #8AE0F5;
+}
+
+.bottom-red {
+    display: inline-block;
+    position: bottom;
+    background-color: #ed4f4f;
+    width: 106px;
+    height: 76px;
+    border: 1px solid #F3A1A4;
+}
+
+.bottom-green {
+    display: inline-block;
+    position: bottom;
+    background-color: #5bcec2;
+    width: 106px;
+    height: 76px;
+    border: 1px solid #89E4DE;
+}
+
+.bottom-grey {
+    display: inline-block;
+    background-color: #33495f;
+    position: bottom;
+    width: 106px;
+    height: 76px;
+    border: 1px solid #939EAA;
+}
+
+.header-center {
+    background-color: #ffffff;
+    position: top;
+    display: table;
+    margin-top: 0px;
+    padding-top: 0px;
+    width: 435px;
+    height: 218px;
+}
+
+.header-right {
+    float: right;
+    background-color: #ffffff;
+    width: 825px;
+    height: 296px;
+    margin-left: 88px;
+    margin-top: 80px;
+    margin-right: 83px;
+    border: 1px solid #F8F9FA
+}
+
+.colum-right-heater {
+    float: right;
+    width: 390px;
+    height: 296px;
+    background-color: #FFFFFF;
+}
+
+.colum-left-heater {
+    float: left;
+    position: absolute;
+    width: 435px;
+    height: 296px;
+    background-color: #ffffff;
+    margin: 0;
+    font-size: 0;
+}
+
+.heater-twiter {
+    display: inline-block;
+    position: bottom;
+    margin-left: 25px;
+    margin-top: 15px;
+    width: 62px;
+    height: 35px;
+    background-color: #ffffff;
+}
+
+.heater-ball {
+    display: inline-block;
+    position: bottom;
+    width: 60px;
+    height: 50px;
+    background-color: #ffffff;
+}
+
+.heater-be {
+    display: inline-block;
+    position: bottom;
+    width: 60px;
+    height: 50px;
+    background-color: #ffffff;
+}
+
+.heater-instagram {
+    display: inline-block;
+    position: bottom;
+    width: 60px;
+    height: 50px;
+    background-color: #ffffff;
+}
+
+.heater-lamp {
+    display: inline-block;
+    position: bottom;
+    width: 50px;
+    height: 50px;
+    background-color: #ffffff;
+}
+
+.heater-in {
+    display: inline-block;
+    position: bottom;
+    width: 32px;
+    height: 50px;
+    background-color: #ffffff;
+}
+
+.heater-center-text {
+    position: top;
+    background-color: #ffffff;
+    color: #33495f;
+    height: 208px;
+    width: 435px;
+}
+
+h1 {
+    color: #33495f;
+    font-family: 'Signika', sans-serif;
+    font-size: 28px;
+    padding-top: 25px;
+    padding-left: 32px;
+}
+
+p {
+    color: #33495f;
+    font-family: 'Lato', sans-serif;
+    font-size: 15px;
+    padding-top: 15px;
+    padding-left: 32px;
+}
+
+.colortext {
+    color: #75d5f2;
+}
+
+#mail {
+    color: #33495f;
+    padding-top: 100px;
+    margin-bottom: 0px;
+    font-family: 'Signika Negative', sans-serif;
+    font-size: 20px;
+}
+
+#site {
+    color: #FA5351;
+    margin-top: 0px;
+    padding-top: 0px;
+    font-family: 'Signika Negative', sans-serif;
+    font-size: 20px;
+}
+
+#dash {
+    width: 252px;
+    margin-left: 32px
+}
+
+.right-heater-p {
+    text-align: center;
+    color: #ffffff;
+    font-size: 13px;
+    padding: 0px;
+    padding-top: 5px;
+}
+
+.image-avatar {
+    vertical-align: middle;
+    display: table-cell;
+    padding-left: 25px;
+}
+
+.main-text {
+    vertical-align: middle;
+    display: table-cell;
+}
+
+.text-border {
+    font-size: 15px;
+    margin-top: 0px;
+    padding-top: 0px;
+    padding-left: 25px;
+}
+
+.head-name {
+    color: #33495f;
+    font-family: 'Lato', sans-serif;
+    font-size: 20px;
+    padding-top: 25px;
+    padding-left: 25px;
+    padding-bottom: 0px;
+}
